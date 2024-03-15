@@ -1,3 +1,6 @@
+#  :pushpin:notice 
+  node_modules 제거판 입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
