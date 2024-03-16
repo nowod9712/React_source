@@ -1,4 +1,4 @@
-#  :pushpin:notice 
+#  :pushpin:Notice! 
   node_modules 제거판 입니다.
 
 # Getting Started with Create React App
